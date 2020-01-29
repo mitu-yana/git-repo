@@ -1,3 +1,4 @@
 print("Hello world")
 print("Hello Vasya")
 print("Hello Vasya1כככהמ")
+ץוככמף גאככט
